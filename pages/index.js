@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Check out this" />
+     <Header title=<a href="https://www.analuisa.com/collections/chain-necklaces/" rel="dofollow">Nameplate Necklace</a>/>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
